@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Research Assistant @ <a href="http://www.matmuh.itu.edu.tr" target=&ldquo;blank&rdquo;>Department of Mathematics Engineering</a>, <a href="https://www.itu.edu.tr/" target=&ldquo;blank&rdquo;>İTÜ</a>. 
+Research Assistant @ <a href="http://www.matmuh.itu.edu.tr" target=&ldquo;blank&rdquo;>Department of Mathematics Engineering</a>, <a href="https://www.itu.edu.tr/" target=&ldquo;blank&rdquo;>İTÜ</a>, learning Android development for fun ⚡. 
+
+I share 
 
 <!--
 **cagatayalt/cagatayalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
