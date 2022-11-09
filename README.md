@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Research Assistant @ <a href="http://www.matmuh.itu.edu.tr" target=&ldquo;blank&rdquo;>Department of Mathematics Engineering</a>, <a href="https://www.itu.edu.tr/" target=&ldquo;blank&rdquo;>İTÜ</a>, learning Android development for fun ⚡. 
+Research Assistant @ <a href="http://www.matmuh.itu.edu.tr" target=&ldquo;blank&rdquo;>Department of Mathematics Engineering</a>, <a href="https://www.itu.edu.tr/" target=&ldquo;blank&rdquo;>İTÜ</a>, learning Android development for fun ⚡
 
-I share some of the projects from the tutorials or the courses that I follow. Also, I upload some starter apps that you can use for your projects, such as an app with a <a href="https://github.com/cagatayalt/SplashAndOnboarding" target=&ldquo;blank&rdquo;>splash screen & onboarding</a>  &#128170;.
+I share some of the projects from the tutorials or the courses that I follow. Also, I upload some starter apps that you can use for your projects, such as an app with a <a href="https://github.com/cagatayalt/SplashAndOnboarding" target=&ldquo;blank&rdquo;>splash screen & onboarding</a>  &#128170;
 
 
 
